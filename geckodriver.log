@@ -1,0 +1,938 @@
+1656122582585	geckodriver	INFO	Listening on 127.0.0.1:55794
+1656122585666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55795" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileCNWL75"
+1656122601262	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55795
+1656122723487	geckodriver	INFO	Listening on 127.0.0.1:55824
+1656122726510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55825" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileaQRZex"
+1656122727276	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55825
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileaQRZex\\search.json.mozlz4", (void 0)))
+1656122731599	Marionette	INFO	Listening on port 55850
+Read port: 55850
+DevTools listening on ws://localhost:55825/devtools/browser/7dda160b-7e27-4c64-adf7-64baf7061c4b
+1656122731703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+1656122806701	Marionette	INFO	Stopped listening on port 55850
+" "--remote-debugging-port" "55894" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofilehoqaRz"
+1656122742836	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55894
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofilehoqaRz\\search.json.mozlz4", (void 0)))
+1656122746690	Marionette	INFO	Listening on port 55921
+Read port: 55921
+1656122746792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:55894/devtools/browser/a6b8a7d1-0095-4644-a5d6-a597de38f219
+1656122749679	Marionette	INFO	Stopped listening on port 55921
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\VITORD~1\AppData\Local\Temp\rust_mozprofilehoqaRz\protections.sqlite
+1656122774483	geckodriver	INFO	Listening on 127.0.0.1:55957
+1656122777507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55958" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofile67PMyb"
+1656122778449	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55958
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofile67PMyb\\search.json.mozlz4", (void 0)))
+1656122781319	Marionette	INFO	Listening on port 55981
+DevTools listening on ws://localhost:55958/devtools/browser/fd4bc180-f404-4164-b7c0-9fca762a7f0f
+Read port: 55981
+1656122781394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656122783607	Marionette	INFO	Stopped listening on port 55981
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\VITORD~1\AppData\Local\Temp\rust_mozprofile67PMyb\protections.sqlite
+1656122906148	geckodriver	INFO	Listening on 127.0.0.1:56053
+1656122909158	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56054" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileez7FEr"
+1656122909981	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56054
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileez7FEr\\search.json.mozlz4", (void 0)))
+1656122912710	Marionette	INFO	Listening on port 56077
+DevTools listening on ws://localhost:56054/devtools/browser/03467715-887b-4f56-bb26-58cd95c87019
+Read port: 56077
+1656122912778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656122951263	Marionette	INFO	Stopped listening on port 56077
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656122967205	geckodriver	INFO	Listening on 127.0.0.1:56102
+1656122970215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56103" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileeBPk4q"
+1656122970901	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56103
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileeBPk4q\\search.json.mozlz4", (void 0)))
+1656122973612	Marionette	INFO	Listening on port 56127
+DevTools listening on ws://localhost:56103/devtools/browser/e86270e0-1bac-4e83-b61c-42f25fb67fc9
+Read port: 56127
+1656122973706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656122976180	Marionette	INFO	Stopped listening on port 56127
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\VITORD~1\AppData\Local\Temp\rust_mozprofileeBPk4q\protections.sqlite
+1656123426173	geckodriver	INFO	Listening on 127.0.0.1:56230
+1656123429163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileSlZn0X"
+1656123429951	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56231
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileSlZn0X\\search.json.mozlz4", (void 0)))
+1656123432893	Marionette	INFO	Listening on port 56257
+DevTools listening on ws://localhost:56231/devtools/browser/1928b9f7-b59b-4b6e-b7e9-5635216b6a08
+Read port: 56257
+1656123432967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1656123543001	Marionette	INFO	Stopped listening on port 56257
+1656123546604	geckodriver	INFO	Listening on 127.0.0.1:56318
+1656123549664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56319" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileC9ZCt2"
+1656123550566	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56319
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileC9ZCt2\\search.json.mozlz4", (void 0)))
+1656123553394	Marionette	INFO	Listening on port 56344
+DevTools listening on ws://localhost:56319/devtools/browser/c3120a78-a170-488b-8cac-ab8f2bf4cee9
+Read port: 56344
+1656123553446	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1656123771759	Marionette	INFO	Stopped listening on port 56344
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PSessionStorageObserver::Msg_Observe) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1656123774419	geckodriver	INFO	Listening on 127.0.0.1:56412
+1656123777415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56413" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileilJ8bq"
+1656123778114	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56413
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileilJ8bq\\search.json.mozlz4", (void 0)))
+1656123780832	Marionette	INFO	Listening on port 56438
+DevTools listening on ws://localhost:56413/devtools/browser/9cc11914-c98a-4943-9053-b1d304f59f16
+Read port: 56438
+1656123780972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656123794984	Marionette	INFO	Stopped listening on port 56438
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656123812398	geckodriver	INFO	Listening on 127.0.0.1:56484
+1656123815408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56485" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileXDjqhD"
+1656123816034	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56485
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileXDjqhD\\search.json.mozlz4", (void 0)))
+1656123818696	Marionette	INFO	Listening on port 56509
+DevTools listening on ws://localhost:56485/devtools/browser/57c6830b-6d53-4196-870f-61bd266f15b6
+Read port: 56509
+1656123818770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1656123854862	Marionette	INFO	Stopped listening on port 56509
+1656123999486	geckodriver	INFO	Listening on 127.0.0.1:56580
+1656124002517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56581" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileQazci1"
+1656124003368	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56581
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileQazci1\\search.json.mozlz4", (void 0)))
+1656124006241	Marionette	INFO	Listening on port 56604
+DevTools listening on ws://localhost:56581/devtools/browser/91d6c336-06d3-4300-a6d6-f4b76dbcae4b
+Read port: 56604
+1656124006376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656124056518	Marionette	INFO	Stopped listening on port 56604
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56653" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofile4U2da7"
+1656124056420	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56653
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofile4U2da7\\search.json.mozlz4", (void 0)))
+1656124059689	Marionette	INFO	Listening on port 56677
+DevTools listening on ws://localhost:56653/devtools/browser/c619ab82-5759-4a52-a817-f7f782fe7346
+Read port: 56677
+1656124059761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+1656124068213	Marionette	INFO	Stopped listening on port 56677
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+1656124088574	geckodriver	INFO	Listening on 127.0.0.1:56727
+1656124091549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56728" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileSH2zci"
+1656124092398	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56728
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileSH2zci\\search.json.mozlz4", (void 0)))
+1656124095328	Marionette	INFO	Listening on port 56751
+DevTools listening on ws://localhost:56728/devtools/browser/cd423a55-1b8c-4d05-a32d-3163251991e8
+Read port: 56751
+1656124095399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656124118794	Marionette	INFO	Stopped listening on port 56751
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656124129130	geckodriver	INFO	Listening on 127.0.0.1:56798
+1656124132149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56799" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofilev9rH6Q"
+1656124132912	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56799
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofilev9rH6Q\\search.json.mozlz4", (void 0)))
+1656124135595	Marionette	INFO	Listening on port 56822
+Read port: 56822
+DevTools listening on ws://localhost:56799/devtools/browser/106a01ef-93e4-4677-aa83-431897779f54
+1656124135703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656124199866	Marionette	INFO	Stopped listening on port 56822
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656124421273	geckodriver	INFO	Listening on 127.0.0.1:57016
+1656124424307	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57017" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofile3hDuOd"
+1656124425156	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57017
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofile3hDuOd\\search.json.mozlz4", (void 0)))
+1656124428619	Marionette	INFO	Listening on port 57041
+DevTools listening on ws://localhost:57017/devtools/browser/c7900e1d-f9d4-49a7-ab21-d8b55c62bedc
+Read port: 57041
+1656124428696	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1656124609488	Marionette	INFO	Stopped listening on port 57041
+1656124764531	geckodriver	INFO	Listening on 127.0.0.1:57182
+1656124767569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57183" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofilewmbbci"
+1656124768489	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57183
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofilewmbbci\\search.json.mozlz4", (void 0)))
+1656124771447	Marionette	INFO	Listening on port 57206
+DevTools listening on ws://localhost:57183/devtools/browser/8309499b-95de-4504-94bb-a5b832ce374d
+Read port: 57206
+1656124771547	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656124788812	Marionette	INFO	Stopped listening on port 57206
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656124861635	geckodriver	INFO	Listening on 127.0.0.1:57262
+1656124864642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57263" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileGKbPeC"
+1656124866489	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57263
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileGKbPeC\\search.json.mozlz4", (void 0)))
+1656124875546	Marionette	INFO	Listening on port 57288
+DevTools listening on ws://localhost:57263/devtools/browser/660e3253-98ff-4208-ac5a-b7d1392310c7
+Read port: 57288
+1656124876161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656125059168	geckodriver	INFO	Listening on 127.0.0.1:57406
+1656125062217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57407" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofilem3l7I9"
+1656125063297	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57407
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofilem3l7I9\\search.json.mozlz4", (void 0)))
+1656125066463	Marionette	INFO	Listening on port 57432
+Read port: 57432
+1656125066525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:57407/devtools/browser/61768722-2651-4616-95e0-1f4dad3a5526
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+1656125072178	Marionette	INFO	Stopped listening on port 57432
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1656125093398	geckodriver	INFO	Listening on 127.0.0.1:57479
+1656125096414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57480" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileXjSGhM"
+1656125097385	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57480
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileXjSGhM\\search.json.mozlz4", (void 0)))
+1656125100084	Marionette	INFO	Listening on port 57503
+Read port: 57503
+1656125100118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:57480/devtools/browser/6b684416-25dd-4e00-825e-d83eea8dd06c
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+1656125105722	Marionette	INFO	Stopped listening on port 57503
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1656166497814	geckodriver	INFO	Listening on 127.0.0.1:62122
+1656166500851	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62123" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileT9elSI"
+1656166502056	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62123
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileT9elSI\\search.json.mozlz4", (void 0)))
+1656166505896	Marionette	INFO	Listening on port 62147
+Read port: 62147
+DevTools listening on ws://localhost:62123/devtools/browser/a3da7526-72bd-4279-a05d-a1247eba44e5
+1656166506013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656167142486	geckodriver	INFO	Listening on 127.0.0.1:62243
+1656167145516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62244" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileoeQRJI"
+1656167146394	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62244
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileoeQRJI\\search.json.mozlz4", (void 0)))
+1656167149261	Marionette	INFO	Listening on port 62268
+DevTools listening on ws://localhost:62244/devtools/browser/738caa93-78f8-44ee-93b5-d92127119dae
+Read port: 62268
+1656167149399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656168839410	geckodriver	INFO	Listening on 127.0.0.1:62772
+1656168842429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62773" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileqQLd7d"
+1656168843976	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62773
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileqQLd7d\\search.json.mozlz4", (void 0)))
+1656168848714	Marionette	INFO	Listening on port 62797
+DevTools listening on ws://localhost:62773/devtools/browser/31e865b0-1a21-4529-bb6d-f7d0e05a753d
+Read port: 62797
+1656168848816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656168896174	geckodriver	INFO	Listening on 127.0.0.1:62843
+1656168899236	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62844" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofilen64Yui"
+1656168901706	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62844
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofilen64Yui\\search.json.mozlz4", (void 0)))
+1656168915378	Marionette	INFO	Listening on port 62870
+DevTools listening on ws://localhost:62844/devtools/browser/ec3c19e0-6d3f-4542-a577-32bbc0733880
+Read port: 62870
+1656168915938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656169030775	geckodriver	INFO	Listening on 127.0.0.1:62927
+1656169033722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62928" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileqHsRmk"
+1656169034657	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62928
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileqHsRmk\\search.json.mozlz4", (void 0)))
+1656169037568	Marionette	INFO	Listening on port 62953
+DevTools listening on ws://localhost:62928/devtools/browser/d02fc2c2-79dd-4147-ae29-b2e9302c6d68
+Read port: 62953
+1656169037610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656169075702	Marionette	INFO	Stopped listening on port 62953
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656169139565	geckodriver	INFO	Listening on 127.0.0.1:63017
+1656169142542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63018" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileLwErTN"
+1656169143449	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63018
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileLwErTN\\search.json.mozlz4", (void 0)))
+1656169147121	Marionette	INFO	Listening on port 63041
+Read port: 63041
+1656169147195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:63018/devtools/browser/ec811dea-2fc7-486d-922e-eb34fb118592
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656169382459	geckodriver	INFO	Listening on 127.0.0.1:63119
+1656169389373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63120" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileMc0UeE"
+1656169398037	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63120
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileMc0UeE\\search.json.mozlz4", (void 0)))
+1656169401400	Marionette	INFO	Listening on port 63144
+DevTools listening on ws://localhost:63120/devtools/browser/2e2e671d-1d5a-4eef-ba76-04a578030de9
+Read port: 63144
+1656169401490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656169414819	Marionette	INFO	Stopped listening on port 63144
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656169454419	geckodriver	INFO	Listening on 127.0.0.1:63201
+1656169457686	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63202" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofiledcZFx4"
+1656169464194	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63202
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofiledcZFx4\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 765))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1656169485499	Marionette	INFO	Listening on port 63233
+Read port: 63233
+1656169485582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:63202/devtools/browser/14b1afb2-d2f3-476e-9843-443fa98d7023
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656169499674	Marionette	INFO	Stopped listening on port 63233
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656169653593	geckodriver	INFO	Listening on 127.0.0.1:63292
+1656169656560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63293" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofile8lzjo0"
+1656169657485	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63293
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofile8lzjo0\\search.json.mozlz4", (void 0)))
+1656169660742	Marionette	INFO	Listening on port 63317
+DevTools listening on ws://localhost:63293/devtools/browser/46c315aa-2f51-441a-b116-19ee375f25d7
+Read port: 63317
+1656169660871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656169710613	Marionette	INFO	Stopped listening on port 63311656169710831	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63368" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofilezx7MpQ"
+1656169711998	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63368
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofilezx7MpQ\\search.json.mozlz4", (void 0)))
+1656169715113	Marionette	INFO	Listening on port 63392
+DevTools listening on ws://localhost:63368/devtools/browser/c659a969-a68a-4e32-b627-e21c8c961974
+Read port: 63392
+1656169715217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656169757958	Marionette	INFO	Stopped listening on port 63392
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656170053880	geckodriver	INFO	Listening on 127.0.0.1:63491
+1656170056898	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63492" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofilekEcdAk"
+1656170057924	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63492
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofilekEcdAk\\search.json.mozlz4", (void 0)))
+1656170061406	Marionette	INFO	Listening on port 63517
+Read port: 63517
+DevTools listening on ws://localhost:63492/devtools/browser/71dc172e-0da9-4955-ad55-b7d7a8d6adfc
+1656170061535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656170074806	Marionette	INFO	Stopped listening on port 63517
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PWebSocket::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 6124, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656170089376	geckodriver	INFO	Listening on 127.0.0.1:63548
+1656170092300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofilehVwmQa"
+1656170093248	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63549
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofilehVwmQa\\search.json.mozlz4", (void 0)))
+1656170096092	Marionette	INFO	Listening on port 63576
+DevTools listening on ws://localhost:63549/devtools/browser/f72e01a1-9068-4c11-96b7-58554ef89eea
+Read port: 63576
+1656170096165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656170169864	Marionette	INFO	Stopped listening on port 63576
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: Send(msgname=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1656170215952	geckodriver	INFO	Listening on 127.0.0.1:63629
+1656170218906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63630" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofilestrTQl"
+1656170219615	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63630
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofilestrTQl\\search.json.mozlz4", (void 0)))
+1656170222176	Marionette	INFO	Listening on port 63654
+DevTools listening on ws://localhost:63630/devtools/browser/59742c26-4729-400e-9355-fea5730627f8
+Read port: 63654
+1656170222346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656170251513	Marionette	INFO	Stopped listening on port 63654
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PWebSocket::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PWebSocket::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PWebSocket::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1656170312418	geckodriver	INFO	Listening on 127.0.0.1:63713
+1656170315362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63714" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileudJgrS"
+1656170315911	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63714
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileudJgrS\\search.json.mozlz4", (void 0)))
+1656170318778	Marionette	INFO	Listening on port 63739
+DevTools listening on ws://localhost:63714/devtools/browser/0f81b19d-65ef-4a9d-9143-a38e756003ba
+Read port: 63739
+1656170318885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656170451446	Marionette	INFO	Stopped listening on port 63739
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1656170775401	geckodriver	INFO	Listening on 127.0.0.1:63883
+1656170778424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63884" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofilerDPXAu"
+1656170779291	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63884
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofilerDPXAu\\search.json.mozlz4", (void 0)))
+1656170782493	Marionette	INFO	Listening on port 63909
+DevTools listening on ws://localhost:63884/devtools/browser/c1887c81-3951-458b-88ba-f8a199aa8582
+Read port: 63909
+1656170782607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1656170793906	Marionette	INFO	Stopped listening on port 63909
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PWebSocket::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU1656170801628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileqvqxYx"
+1656170805878	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63947
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileqvqxYx\\search.json.mozlz4", (void 0)))
+1656170814870	Marionette	INFO	Listening on port 63971
+DevTools listening on ws://localhost:63947/devtools/browser/5a9f2126-a555-48b6-b3d3-412252827532
+Read port: 63971
+1656170815705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656170836536	Marionette	INFO	Stopped listening on port 63971
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656171160360	geckodriver	INFO	Listening on 127.0.0.1:64187
+1656171163373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64188" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileLYaBx1"
+1656171173096	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64188
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileLYaBx1\\search.json.mozlz4", (void 0)))
+1656171198078	Marionette	INFO	Listening on port 64213
+DevTools listening on ws://localhost:64188/devtools/browser/be87fbac-af64-4b01-bb6f-12635364366f
+Read port: 64213
+1656171198192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656171290689	Marionette	INFO	Stopped listening on port 64213
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656171321722	geckodriver	INFO	Listening on 127.0.0.1:64268
+1656171324677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64269" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofilehYkyFn"
+1656171326477	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64269
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofilehYkyFn\\search.json.mozlz4", (void 0)))
+1656171335288	Marionette	INFO	Listening on port 64294
+DevTools listening on ws://localhost:64269/devtools/browser/6a125de7-becc-487f-9968-e61805d7631b
+Read port: 64294
+1656171335783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656171346185	Marionette	INFO	Stopped listening on port 64294
+[Parent 11508, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656171357794	geckodriver	INFO	Listening on 127.0.0.1:64330
+1656171360731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64331" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileX06uvj"
+1656171361528	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64331
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileX06uvj\\search.json.mozlz4", (void 0)))
+1656171364065	Marionette	INFO	Listening on port 64355
+DevTools listening on ws://localhost:64331/devtools/browser/8919bb13-831a-458a-b7cc-6fb35562513c
+Read port: 64355
+1656171364260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656171395752	Marionette	INFO	Stopped listening on port 64355
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656171592594	geckodriver	INFO	Listening on 127.0.0.1:64447
+1656171595595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64448" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileD4KNBG"
+1656171610892	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64448
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileD4KNBG\\search.json.mozlz4", (void 0)))
+1656171630178	Marionette	INFO	Listening on port 64472
+Read port: 64472
+1656171630231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:64448/devtools/browser/36e4c8c2-e5d3-4d25-b37c-ba6db503403e
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656171735272	Marionette	INFO	Stopped listening on port 64472
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656175104592	geckodriver	INFO	Listening on 127.0.0.1:64990
+1656175107600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "--remote-debugging-port" "64991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileDa8ilW"
+1656175108816	Marionette	INFO	Marionette enabled
+1656175108825	Marionette	INFO	Listening on port 65000
+WebDriver BiDi listening on ws://localhost:64991
+Read port: 65000
+1656175109155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileDa8ilW\\search.json.mozlz4", (void 0)))
+console.error: SearchEngineSelector: "Received empty search configuration!"
+console.error: SearchEngineSelector: "Received empty search configuration!"
+console.error: SearchService: "#init: failure initializing search:" ({})
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: resource://gre/modules/SearchService.jsm, line 1205: NS_ERROR_UNEXPECTED: SearchService previously failed to initialize
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: , line 0: uncaught exception: 2147549183
+DevTools listening on ws://localhost:64991/devtools/browser/0e8b634c-b857-47ec-ac1f-bc98dc3c5e2c
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("cannot write without any engine.", "resource://gre/modules/SearchSettings.jsm", 218))
+1656175152414	Marionette	INFO	Stopped listening on port 65000
+[Parent 13840, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 13840, Main Thread] WARNING: ContentParent: id=1acb8d06300 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3584
+[Parent 13840, Main Thread] WARNING: ContentParent: id=1acb8d06300 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1790
+[Parent 13840, Main Thread] WARNING: ContentParent: id=1acb8d06300 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1825
+[Parent 13840, Main Thread] WARNING: ContentParent: id=1acb8d06300 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3686
+1656175158421	geckodriver	INFO	Listening on 127.0.0.1:65052
+1656175161422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "--remote-debugging-port" "65053" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileHxckqZ"
+1656175162278	Marionette	INFO	Marionette enabled
+1656175162285	Marionette	INFO	Listening on port 65063
+WebDriver BiDi listening on ws://localhost:65053
+Read port: 65063
+1656175162524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileHxckqZ\\search.json.mozlz4", (void 0)))
+console.error: SearchEngineSelector: "Received empty search configuration!"
+console.error: SearchEngineSelector: "Received empty search configuration!"
+console.error: SearchService: "#init: failure initializing search:" ({})
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: resource://gre/modules/SearchService.jsm, line 1205: NS_ERROR_UNEXPECTED: SearchService previously failed to initialize
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: , line 0: uncaught exception: 2147549183
+DevTools listening on ws://localhost:65053/devtools/browser/276439c3-8195-47d7-989b-9df8b99f9ee1
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("cannot write without any engine.", "resource://gre/modules/SearchSettings.jsm", 218))
+1656175257520	Marionette	INFO	Stopped listening on port 65063
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 6276, Main Thread] WARNING: ContentParent: id=11f70d6eb00 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3584
+[Parent 6276, Main Thread] WARNING: ContentParent: id=11f70d6eb00 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1790
+[Parent 6276, Main Thread] WARNING: ContentParent: id=11f71d6d300 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3584
+[Parent 6276, Main Thread] WARNING: ContentParent: id=11f71d6d300 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1790
+[Parent 6276, Main Thread] WARNING: ContentParent: id=11f71d6d300 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1825
+[Parent 6276, Main Thread] WARNING: ContentParent: id=11f71d6d300 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3686
+[Parent 6276, Main Thread] WARNING: ContentParent: id=11f70d6eb00 - ShutDownProcess: Shutdown already pending.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1806
+[Parent 6276, Main Thread] WARNING: ContentParent: id=11f70d6eb00 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1825
+[Parent 6276, Main Thread] WARNING: ContentParent: id=11f70d6eb00 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3686
+1656175843028	geckodriver	INFO	Listening on 127.0.0.1:65219
+1656175846015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "--remote-debugging-port" "65220" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileGf2HLS"
+1656175846980	Marionette	INFO	Marionette enabled
+1656175846987	Marionette	INFO	Listening on port 65229
+WebDriver BiDi listening on ws://localhost:65220
+Read port: 65229
+1656175847258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileGf2HLS\\search.json.mozlz4", (void 0)))
+console.error: SearchEngineSelector: "Received empty search configuration!"
+console.error: SearchEngineSelector: "Received empty search configuration!"
+console.error: SearchService: "#init: failure initializing search:" ({})
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: resource://gre/modules/SearchService.jsm, line 1205: NS_ERROR_UNEXPECTED: SearchService previously failed to initialize
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: , line 0: uncaught exception: 2147549183
+DevTools listening on ws://localhost:65220/devtools/browser/37a4d985-ce68-4935-8bda-323dd571dec7
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("cannot write without any engine.", "resource://gre/modules/SearchSettings.jsm", 218))
+1656175861397	Marionette	INFO	Stopped listening on port 65229
+[Parent 9100, Main Thread] WARNING: ContentParent: id=19254a75200 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3584
+[Parent 9100, Main Thread] WARNING: ContentParent: id=19254a75200 - ShutDownProcess: Shutdown already pending.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1806
+[Parent 9100, Main Thread] WARNING: ContentParent: id=19254a76600 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3584
+[Parent 9100, Main Thread] WARNING: ContentParent: id=19254a76600 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1790
+[Parent 9100, Main Thread] WARNING: ContentParent: id=19254a76600 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1825
+[Parent 9100, Main Thread] WARNING: ContentParent: id=19254a76600 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3686
+[Parent 9100, Main Thread] WARNING: ContentParent: id=19254a75200 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1825
+[Parent 9100, Main Thread] WARNING: ContentParent: id=19254a75200 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3686
+1656175873782	geckodriver	INFO	Listening on 127.0.0.1:65268
+1656175876744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "--remote-debugging-port" "65269" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofile90jg95"
+1656175877680	Marionette	INFO	Marionette enabled
+1656175877685	Marionette	INFO	Listening on port 65279
+WebDriver BiDi listening on ws://localhost:65269
+Read port: 65279
+1656175877994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofile90jg95\\search.json.mozlz4", (void 0)))
+console.error: SearchEngineSelector: "Received empty search configuration!"
+console.error: SearchEngineSelector: "Received empty search configuration!"
+console.error: SearchService: "#init: failure initializing search:" ({})
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: resource://gre/modules/SearchService.jsm, line 1205: NS_ERROR_UNEXPECTED: SearchService previously failed to initialize
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: , line 0: uncaught exception: 2147549183
+DevTools listening on ws://localhost:65269/devtools/browser/7a3747fc-c834-4e5e-bc48-783e9e2420dc
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("cannot write without any engine.", "resource://gre/modules/SearchSettings.jsm", 218))
+1656175916394	Marionette	INFO	Stopped listening on port 65279
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 12168, Main Thread] WARNING: ContentParent: id=24593176900 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3584
+[Parent 12168, Main Thread] WARNING: ContentParent: id=24593176900 - ShutDownProcess: Shutdown already pending.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1806
+[Parent 12168, Main Thread] WARNING: ContentParent: id=24594bf7900 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3584
+[Parent 12168, Main Thread] WARNING: ContentParent: id=24594bf7900 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1790
+[Parent 12168, Main Thread] WARNING: ContentParent: id=24594bf7900 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1825
+[Parent 12168, Main Thread] WARNING: ContentParent: id=24594bf7900 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3686
+[Parent 12168, Main Thread] WARNING: ContentParent: id=24593176900 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1825
+[Parent 12168, Main Thread] WARNING: ContentParent: id=24593176900 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3686
+1656175963314	geckodriver	INFO	Listening on 127.0.0.1:65324
+1656175966267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "--remote-debugging-port" "65325" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofile3E4asY"
+1656175966898	Marionette	INFO	Marionette enabled
+1656175966911	Marionette	INFO	Listening on port 65332
+WebDriver BiDi listening on ws://localhost:65325
+Read port: 65332
+1656175967174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofile3E4asY\\search.json.mozlz4", (void 0)))
+console.error: SearchEngineSelector: "Received empty search configuration!"
+console.error: SearchEngineSelector: "Received empty search configuration!"
+console.error: SearchService: "#init: failure initializing search:" ({})
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: resource://gre/modules/SearchService.jsm, line 1205: NS_ERROR_UNEXPECTED: SearchService previously failed to initialize
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: , line 0: uncaught exception: 2147549183
+DevTools listening on ws://localhost:65325/devtools/browser/b5aa7fe4-e23b-401c-9634-0585b0b77614
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("cannot write without any engine.", "resource://gre/modules/SearchSettings.jsm", 218))
+1656175977024	Marionette	INFO	Stopped listening on port 65332
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10712, Main Thread] WARNING: ContentParent: id=2a07326d400 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3584
+[Parent 10712, Main Thread] WARNING: ContentParent: id=2a07326d400 - ShutDownProcess: Shutdown already pending.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1806
+[Parent 10712, Main Thread] WARNING: ContentParent: id=2a0742edb00 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3584
+[Parent 10712, Main Thread] WARNING: ContentParent: id=2a0742edb00 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1790
+[Parent 10712, Main Thread] WARNING: ContentParent: id=2a0742edb00 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1825
+[Parent 10712, Main Thread] WARNING: ContentParent: id=2a0742edb00 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3686
+[Parent 10712, Main Thread] WARNING: ContentParent: id=2a07326d400 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1825
+[Parent 10712, Main Thread] WARNING: ContentParent: id=2a07326d400 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3686
+1656176029869	geckodriver	INFO	Listening on 127.0.0.1:65381
+1656176032809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "--remote-debugging-port" "65382" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileuc3UA1"
+1656176033528	Marionette	INFO	Marionette enabled
+1656176033539	Marionette	INFO	Listening on port 65390
+WebDriver BiDi listening on ws://localhost:65382
+Read port: 65390
+1656176033811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileuc3UA1\\search.json.mozlz4", (void 0)))
+console.error: SearchEngineSelector: "Received empty search configuration!"
+console.error: SearchEngineSelector: "Received empty search configuration!"
+console.error: SearchService: "#init: failure initializing search:" ({})
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: resource://gre/modules/SearchService.jsm, line 1205: NS_ERROR_UNEXPECTED: SearchService previously failed to initialize
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: , line 0: uncaught exception: 2147549183
+DevTools listening on ws://localhost:65382/devtools/browser/e28d04d8-bf5a-4474-b63f-b659e891c20d
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("cannot write without any engine.", "resource://gre/modules/SearchSettings.jsm", 218))
+1656176049991	Marionette	INFO	Stopped listening on port 65390
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 13328, Main Thread] WARNING: ContentParent: id=21819d71000 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3584
+[Parent 13328, Main Thread] WARNING: ContentParent: id=21819d71000 - ShutDownProcess: Shutdown already pending.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1806
+[Parent 13328, Main Thread] WARNING: ContentParent: id=2181bb5a400 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3584
+[Parent 13328, Main Thread] WARNING: ContentParent: id=2181bb5a400 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1790
+[Parent 13328, Main Thread] WARNING: ContentParent: id=2181bb5a400 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1825
+[Parent 13328, Main Thread] WARNING: ContentParent: id=2181bb5a400 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3686
+[Parent 13328, Main Thread] WARNING: ContentParent: id=21819d71000 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1825
+[Parent 13328, Main Thread] WARNING: ContentParent: id=21819d71000 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3686
+1656176839632	geckodriver	INFO	Listening on 127.0.0.1:49176
+1656176842643	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "--remote-debugging-port" "49177" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofilenG45m0"
+1656176843761	Marionette	INFO	Marionette enabled
+1656176843772	Marionette	INFO	Listening on port 49187
+WebDriver BiDi listening on ws://localhost:49177
+Read port: 49187
+1656176844038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofilenG45m0\\search.json.mozlz4", (void 0)))
+console.error: SearchEngineSelector: "Received empty search configuration!"
+console.error: SearchEngineSelector: "Received empty search configuration!"
+console.error: SearchService: "#init: failure initializing search:" ({})
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: resource://gre/modules/SearchService.jsm, line 1205: NS_ERROR_UNEXPECTED: SearchService previously failed to initialize
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: , line 0: uncaught exception: 2147549183
+DevTools listening on ws://localhost:49177/devtools/browser/6c8a8d75-10d5-4b16-9882-428226404dea
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("cannot write without any engine.", "resource://gre/modules/SearchSettings.jsm", 218))
+1656176907385	Marionette	INFO	Stopped listening on port 49187
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 5348, Main Thread] WARNING: ContentParent: id=20a740f3100 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3584
+[Parent 5348, Main Thread] WARNING: ContentParent: id=20a740f3100 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1790
+[Parent 5348, Main Thread] WARNING: ContentParent: id=20a740f3100 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1825
+[Parent 5348, Main Thread] WARNING: ContentParent: id=20a740f3100 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3686
+[Parent 5348, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1656177026899	geckodriver	INFO	Listening on 127.0.0.1:49257
+1656177029889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "--remote-debugging-port" "49258" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileV4G80g"
+1656177030785	Marionette	INFO	Marionette enabled
+1656177030792	Marionette	INFO	Listening on port 49265
+WebDriver BiDi listening on ws://localhost:49258
+Read port: 49265
+1656177031039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VITORD~1\\AppData\\Local\\Temp\\rust_mozprofileV4G80g\\search.json.mozlz4", (void 0)))
+console.error: SearchEngineSelector: "Received empty search configuration!"
+console.error: SearchEngineSelector: "Received empty search configuration!"
+console.error: SearchService: "#init: failure initializing search:" ({})
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: resource://gre/modules/SearchService.jsm, line 1205: NS_ERROR_UNEXPECTED: SearchService previously failed to initialize
+JavaScript error: , line 0: uncaught exception: 2147549183
+JavaScript error: , line 0: uncaught exception: 2147549183
+DevTools listening on ws://localhost:49258/devtools/browser/dd85601f-d4ec-4938-a259-93dca6228de5
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("cannot write without any engine.", "resource://gre/modules/SearchSettings.jsm", 218))
+1656177048238	Marionette	INFO	Stopped listening on port 49265
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 14632, Main Thread] WARNING: ContentParent: id=29bf5370800 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3584
+[Parent 14632, Main Thread] WARNING: ContentParent: id=29bf5370800 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1790
+[Parent 14632, Main Thread] WARNING: ContentParent: id=29bf665fb00 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3584
+[Parent 14632, Main Thread] WARNING: ContentParent: id=29bf665fb00 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1790
+[Parent 14632, Main Thread] WARNING: ContentParent: id=29bf665fb00 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1825
+[Parent 14632, Main Thread] WARNING: ContentParent: id=29bf665fb00 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3686
+[Parent 14632, Main Thread] WARNING: ContentParent: id=29bf5370800 - ShutDownProcess: Shutdown already pending.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1806
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+[Parent 14632, Main Thread] WARNING: ContentParent: id=29bf5370800 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1825
+[Parent 14632, Main Thread] WARNING: ContentParent: id=29bf5370800 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3686
